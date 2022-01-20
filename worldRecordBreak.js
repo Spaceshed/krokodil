@@ -11,7 +11,7 @@ function solve(input) {
     console.log(`No, he failed! He was ${secondsSlower.toFixed(2)} seconds slower.`);
   } else {
     console.log(
-      `Yes, he succeeded! The new world record is ${swimmingTime.toFixed(
+      `Yes, he succeeded ! The new world record is ${swimmingTime.toFixed(
         2
       )} seconds.`
     );
